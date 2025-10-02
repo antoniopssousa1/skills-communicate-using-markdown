@@ -1,0 +1,25 @@
+# Communicate Using Markdown 
+## Communicate Using Markdown 
+#### Communicate Using Markdown 
+---
+![Imagem 1](https://octodex.github.com/images/yaktocat.png)
+---
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+---
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+---
+``` javascript
+var myVar = "Hello, world!";
+```
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [x] Introduzir Imagem
+- [x] Snipets de codigo
+
+
+
